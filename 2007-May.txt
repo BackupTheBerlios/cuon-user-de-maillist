@@ -1,0 +1,38 @@
+From jhamel at cyrus.de  Mon May 14 22:06:24 2007
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Mon, 14 May 2007 20:06:24 -0000
+Subject: [Cuon-user-de] CUON-Version 0.37-9 Dschibuti
+Message-ID: <20070514211440.6EC6056005C@serv-2-4-80.lycos-vds.com>
+
+Hallo, 
+Es hat sich viel getan in den letzten Wochen. Neben neuen Firmen, die jetzt CUON nutzen,
+gab es auch eine Menge Verbesserungsvorschl?ge und neue Features:
+Automatische Email-Erzeugung f?r verschiedene Nutzer, die z.B. bei einer Notiz?nderung 
+benachrichtigt werden.
+Ein paar zus?tzliche Felder in der Adressverwaltung, Info zur Kurzinformation,
+ bei den Gespr?chspartnern Funktion und Abteilung.
+Schnell-Positionseingabe bei der Auftragsverwaltung, Anzeigen der Rechnungsnummer
+und des Gesamtpreises.
+Die Tabs k?nnen jetzt ?ber F1 -F9 aktiviert werden, Au?erdem weitere Tastaturunterst?tzung  
+zum Bearbeiten, Neuanlegen und Speichern.
+Die Terminanzeige im Hauptfenster ist mit den Radiobuttons gekoppelt. Default zeigt es nur Termine 
+von heute oder sp?ter an, man kann aber sich alle Termine oder alle abgebrochenen Termine anzeigen lassen.
+Es gibt jetzt den Men?-Punkt "All Contact" ( auch als Toolbar-Button ). Damit k?nnt ihr euch alle eure 
+Kontakte anschauen.
+Viele andere Kleinigkeiten wurden ebenfalls verbessert und kleinere Bugs beseitig.
+
+Zum download steht wieder die Komplettversion, der Internet-Client sowie ein Standard-Client zur
+Verf?gung. Ebenso ein Image mit einem kompletten CUON-Server fpr Qemu oder VMware-Player.
+
+Die Adressverwaltung erm?glicht  jetzt schon ein sehr komplexes Verwalten der Daten und ich
+werde jetzt die Auftragsbearbeitung weiter verbessern. Ebenso ist jetzt der Zahlungseingang und die 
+Buchhaltung dran.
+
+Viel Spa?
+J?rgen
+
+--
+CUON - Warenwirtschaft mit LINUX
+Cyrus-Computer GmbH, L?hne
+
+

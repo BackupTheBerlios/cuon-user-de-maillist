@@ -1,0 +1,37 @@
+From jhamel at cyrus.de  Thu Aug 27 19:03:17 2009
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Thu, 27 Aug 2009 17:03:17 -0000
+Subject: [Cuon-user-de] Neue Cuon Version 0.47.3 toulouse
+Message-ID: <20090827170317.811002D1326@h1305982.stratoserver.net>
+
+Hallo, 
+Die neue Cuon-Version steht zum download bereit, downloads k?nnen hier gestartet werden:
+
+http://developer.berlios.de/project/showfiles.php?group_id=942&release_id=16639
+
+http://www.cuon.org
+
+http://www.sourceforge.net
+
+http://freshmeat.net
+
+Neu ist der integrierte Twitter client, mit dem Kundenbetreuung und Kundenwerbung noch einfacher werden. 
+Dieses neue Medium ist hervorragend zur schnellen Information geeignet. 
+
+Ebenfalls wurde die GUI ?berarbeitet und ein neues Modul in den G?rtnereibereich eingef?hrt, nach
+der ?berwinterung nun die Friedhof und Gr?berverwaltung. 
+
+Interne wurden und werden viele SQL-Queries beschleunigt, indem sie in PLPGSQL adaptiert werden.
+
+Die von mir betreuten Firmen werden automatisch in den n?chsten Tagen aktualisiert. 
+
+Ich w?nsche euch allen einen sch?nen Tag.
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+

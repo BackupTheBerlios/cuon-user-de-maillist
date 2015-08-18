@@ -1,0 +1,29 @@
+From jhamel at cyrus-computer.de  Tue Jan  5 15:01:23 2010
+From: jhamel at cyrus-computer.de (=?UTF-8?B?SsO8cmdlbg==?= Hamel)
+Date: Tue, 5 Jan 2010 15:01:23 +0100
+Subject: [Cuon-user-de] =?utf-8?q?Gute_Nachrichten_aus_M=C3=BCnchen?=
+Message-ID: <20100105150123.0438284c@station2.localdomain>
+
+Hallo, 
+etwas abseits von C.U.O.N. hier mal die gute Nachricht vom Umstieg
+der M?nchener Stadtverwaltung auf Linux:
+
+http://www.pro-linux.de/NB3/news/1/15136/meilenstein-fuer-limux-projekt.html
+
+Tsch?ss
+und ein frohes neues Jahr
+
+J?rgen
+
+-- 
+Cyrus-Computer GmbH Linux Server Support J?rgen Hamel
+Cuon - Warenwirtschaft mit Linux  http://www.cuon.org
+Twitter: cuonOne    Jabber: jhamel at cuonsim2.de
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 198 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/cuon-user-de/attachments/20100105/d2a1e499/attachment.pgp>
+

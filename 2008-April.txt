@@ -1,0 +1,38 @@
+From jhamel at cyrus.de  Sat Apr 19 17:53:23 2008
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Sat, 19 Apr 2008 15:53:23 -0000
+Subject: [Cuon-user-de] Neue Cuon Installation
+Message-ID: <20080419155323.DB2CA4E0194@h1305982.stratoserver.net>
+
+Hallo, 
+Heute kann ich eine besondere Neuigkeit zur Installation von CUON vermelden. 
+Der Millin Verlag bietet f?r SUSE in seinen Vorkon-shop vorinstallierte Versionen von Cuon an. 
+Damit wird die Installation unter SUSE nun ebenfalls sehr vereinfacht, da das ganze auch noch ?ber eine 
+sehr sch?ne Grafik ( schaut euch das mal an ) verf?gt, wird endlich die Installation professionell und einfach
+durchgef?hrt.  
+
+
+http://vorkon.de/j4vorkon/index.php?page=shop.product_details&flypage=shop.flypage&product_id=27&category_id=8&manufacturer_id=0&option=com_virtuemart&Itemid=83
+
+http://vorkon.de/j4vorkon/index.php?page=shop.product_details&flypage=shop.flypage&product_id=28&category_id=8&manufacturer_id=0&option=com_virtuemart&Itemid=83
+
+http://vorkon.de/j4vorkon/index.php?page=shop.product_details&flypage=shop.flypage&product_id=29&category_id=8&manufacturer_id=0&option=com_virtuemart&Itemid=83
+
+
+Ich finde, das dies ein weiterer, wichtiger Schritt f?r CUON ist. Eine professionelle Installationsroutine wird es auch 
+nicht so versierten Linux-Usern erm?glichen, C.U.O.N. einfach mal anzutesten. 
+
+C.U.O.N. hat ja sehr viele Module, und inzwischen werden auch viele Bereiche der Warenwirtschaft abgedeckt:
+Neben der Adressverwaltung ist inzwischen auch die Artikelverwaltung, Personalwesen, Auftr?ge und Projekte 
+ein gutes St?ck vorangekommen. Umfangreiche Statistiken und nicht zuletzt das DMS 
+( Dokumenten Management System) mit den vielen Sonderfunktionen wie Serienbriefen, einfache Anschreiben
+u.s.w erleichtern die t?gliche B?roarbeit sehr. 
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+

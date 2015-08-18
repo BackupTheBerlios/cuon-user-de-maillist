@@ -1,0 +1,41 @@
+From jh at cyrus.de  Thu Feb  1 17:45:07 2007
+From: jh at cyrus.de (=?ISO-8859-1?Q?J=FCrgen?= Hamel)
+Date: Thu, 1 Feb 2007 17:45:07 +0100
+Subject: [Cuon-user-de] CUON-Version Cochabamba 0.34-13
+Message-ID: <20070201174507.252775bf@localhost>
+
+Hallo, 
+die neue Version 0.34-13 steht zum download bereit.
+Neu ist bei dieser Version das Kontaktmanagement, mit dem beliebig
+viele Erinnerungen verwaltet werden k?nnen sowie  ein erweitertes
+Terminmanagement. 
+Au?erdem wurde eine Formularverwaltung eingef?hrt,
+?ber die zur Zeit Formulare f?r die Sonstigen Notizen, Notizen
+Kontakter, Notizen Representanten, Notizen Berater verwaltet
+werden. 
+Ein dummer Fehler wurde beseitigt, bei mehr als 80.000
+Adressen wurde CUON merklich langsamer. Das wurde bei meinen
+normalen Tests nat?rlich nicht gefunden. Erst im realen einsatz bei
+mehr als 100.000 Adressen kam es zu sehr z?hen Verhalten. Die gute
+Nachricht war, das der Fehler innerhalb weniger Minuten beseitigt
+werden konnte.
+In den Reports ( Rechnungen, Listen, etc ) k?nnen jetzt auch
+Hintergrundbilder oder LOGOS eingesetzt werden.
+
+
+Tsch??
+J?rgen Hamel
+
+
+
+-- 
+Cyrus-Computer GmbH Linux Server Support J?rgen Hamel
+Cuon - Warenwirtschaft mit Linux  http://www.cuon.org
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/cuon-user-de/attachments/20070201/ba5fbd96/attachment.pgp>
+

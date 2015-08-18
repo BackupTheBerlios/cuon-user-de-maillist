@@ -1,0 +1,41 @@
+From jhamel at cyrus-computer.de  Wed Oct 21 13:27:04 2009
+From: jhamel at cyrus-computer.de (=?ISO-8859-1?Q?J=FCrgen?= Hamel)
+Date: Wed, 21 Oct 2009 13:27:04 +0200
+Subject: [Cuon-user-de] CUON svn Rev. 524
+Message-ID: <20091021132704.38b31735@station2.localdomain>
+
+Hallo, 
+In den n?chsten Monaten werde ich versuchen, eine automatische
+Email Archivierung in das DMS von C.U.O.N. zu integrieren. 
+
+Hierf?r ben?tigt der  Server  nun auch das Modul
+python-twisted-mail. Dieses Modul stellt einen Zugriff auf einen
+Imap-Server bereit, die Konfiguration erfolgt ?ber die server.ini
+mit folgenden Zeilen:
+
+
+#Mail Config zum Archivieren der mails
+[IMAP]
+SERVER: mailxxx.com
+USERNAME: MyName?
+PASSWORD: secret
+PORT: 143
+
+Da die Client Aktualisierung automatisch ?ber die Server erfolgt,
+sollten die Admins C.U.O.N. ?ber das SVN aktualisieren, und dann
+mit dem setup tool ein komplettes Update fahren.
+
+Tsch??
+J?rgen
+-- 
+Cyrus-Computer GmbH Linux Server Support J?rgen Hamel
+Cuon - Warenwirtschaft mit Linux  http://www.cuon.org
+Twitter: cuonOne    Jabber: jhamel at cuonsim2.de
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 198 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/cuon-user-de/attachments/20091021/1642053f/attachment.pgp>
+

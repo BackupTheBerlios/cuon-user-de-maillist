@@ -1,0 +1,83 @@
+From jhamel at cyrus.de  Wed Mar  4 13:00:24 2009
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Wed, 04 Mar 2009 12:00:24 -0000
+Subject: [Cuon-user-de] Webauftritt
+Message-ID: <20090304120024.BAA695FA37A@h1305982.stratoserver.net>
+
+Hallo,
+Leider hat mein Provider seinen Webservice beendet, so das meine Webseite
+
+www.cuon.org 
+
+derzeitig nicht erriechbar ist. Allerdings habe ich rechtzeitig die Domain
+
+www.cuon.biz
+
+registiriert, auf den jetzt die cuon webseiten erreichbar sind. 
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+
+From jh at cyrus.de  Wed Mar  4 13:01:26 2009
+From: jh at cyrus.de (=?UTF-8?B?SsO8cmdlbg==?= Hamel)
+Date: Wed, 4 Mar 2009 13:01:26 +0100
+Subject: [Cuon-user-de] Webauftritt
+Message-ID: <20090304130126.18eeaea5@station2>
+
+
+Hallo,
+Leider hat mein Provider seinen Webservice beendet, so das meine
+Webseite
+
+www.cuon.org 
+
+derzeitig nicht erriechbar ist. Allerdings habe ich rechtzeitig die
+Domain
+
+www.cuon.biz
+
+registiriert, auf den jetzt die cuon webseiten erreichbar sind. 
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+
+-- 
+Cyrus-Computer GmbH Linux Server Support J?rgen Hamel
+Cuon - Warenwirtschaft mit Linux  http://www.cuon.org
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/cuon-user-de/attachments/20090304/a9545268/attachment.pgp>
+
+From jhamel at cyrus.de  Fri Mar 20 20:57:09 2009
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Fri, 20 Mar 2009 19:57:09 -0000
+Subject: [Cuon-user-de] Neue C.U.O.N. Version 0.46-8 Trondheim
+Message-ID: <20090320195709.34A95958402@h1305982.stratoserver.net>
+
+Hallo,
+obwohl die meisten von euch direkt aus dem SVN erneuern, m?chte ich hier mal wieder 
+eine neue Version vorstellen. Die grundlegenste Neuerung ist die Kommunikation vom Handy/PDA 
+?ber einen  Jabber Client direckt mit der AI Schnittstelle in CUON. 
+
+F?r die Systemadministratoren unter euch: Es werden 3 neue python module ben?tigt, bitte im WIKI 
+nachlesen, au?erdem mu? die server.ini angepa?t werden.
+
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+

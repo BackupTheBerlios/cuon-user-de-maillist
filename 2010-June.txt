@@ -1,0 +1,39 @@
+From jhamel at cyrus-computer.de  Mon Jun 14 17:45:00 2010
+From: jhamel at cyrus-computer.de (=?UTF-8?B?SsO8cmdlbg==?= Hamel)
+Date: Mon, 14 Jun 2010 17:45:00 +0200
+Subject: [Cuon-user-de] Neue Version 10.6 und neuer Installer Debian/Ubuntu
+Message-ID: <20100614174500.4567decf@station2.localdomain>
+
+Hallo, 
+Mit dieser neuen Version gibt es wieder eine Menge Erweiterungen und nat?rlich Fehlerkorrekturen. Au?erdem 
+als absolute Neuheit die neuen Installer, zur Zeit nur f?r Debian und Ubuntu, weitere folgen, z.B. f?r Fedora, suse, usw. .
+1) der Client Installer
+Dieser installiert den Cuon client und ruft einen einfachen Konfigurationswizzard auf. Au?erdem weden die 
+Men?eintr?ge  f?r den client unter "B?ro" und f?r die Konfiguration unter "Einstellungen" generiert. 
+2) das Setup Tool
+Dieses installiert das Cuon-Server-Konfigurationstool zum managen der Benutzer, Rechte, Termine und 100 Sachen
+ mehr 
+3) Der Cuon Server
+Hier werden alle ben?tigten Module f?r den Cuon Server installiert, aber nat?rlich mu? die Admin-Handbuchseite 
+genau gelesen werden. 
+
+Hiermit ist es wieder mal einfacher geworden, C.U.O.N. zu installieren. Ich w?nsche viel Spa? beim ausprobieren, 
+die Pakete stehen unter http://www.cuon.org zum download bereit.
+
+ 
+mit freundlichen Gr??en
+J?rgen Hamel
+
+
+-- 
+Cyrus-Computer GmbH Linux Server Support J?rgen Hamel
+Cuon - Warenwirtschaft mit Linux  http://www.cuon.org
+Twitter: cuonOne    Jabber: jhamel at cuonsim2.de
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 198 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/cuon-user-de/attachments/20100614/e81aa454/attachment.pgp>
+

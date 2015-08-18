@@ -1,0 +1,46 @@
+From jh at cyrus.de  Sun Jan 14 20:06:07 2007
+From: jh at cyrus.de (=?ISO-8859-1?Q?J=FCrgen?= Hamel)
+Date: Sun, 14 Jan 2007 20:06:07 +0100
+Subject: [Cuon-user-de] Neue Version 0.33.8
+Message-ID: <20070114200607.24bf6d08@localhost>
+
+
+
+Neue Version von C.U.O.N. ( 0.33.8 )
+Hallo, 
+in dieser neuen Version gibt es wieder eine Menge Neuheiten:
+- Kontaktmodul:  Hier k?nnen kurzfristige Kontakte zugeordnet
+werden ( z.B. Erinnerungen an zu f?hrende Telefonate ) mit Alarm-
+und Weckfunktion.
+- Terminmanagement: Termine werden nach Reisenden in einer
+Kalenderfunktionen auf der Hauptseite dargestellt.
+- Notizen: Umfangreiche Notizen wurden zu den Adressen hinzugef?gt
+( abseits des DMS ) und mit dem Formularmodul verkn?ft.
+- Formulare: Hier k?nnen Formulare vorbereitet werden, die in den
+Notizen verwendet werden.
+- Benutzer werden ?ber die Personalverwaltung indentifiziert
+- Men?-Strukturen k?nnen f?r einzelne Benutzer konfiguriert werden
+
+Nat?rlich wurden auch viele Fehler ausgemerzt und es stecken auch
+eine Menge Verbesserungen unter der Haube.
+
+Vorbereitet wird zur Zeit ein Modul, um Emails, Newsletter und
+?hnlichen zu versenden.
+
+Damit w?re dann die Adressverwaltung ein doch schon komplexes PIM.
+Falls Ihr irgendwelche Anregungen habt, bitte einfach bei mir
+melden.
+
+Tsch??
+J?rgen
+-- 
+Cyrus-Computer GmbH Linux Server Support J?rgen Hamel
+Cuon - Warenwirtschaft mit Linux  http://www.cuon.org
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/cuon-user-de/attachments/20070114/9d2074ce/attachment.pgp>
+

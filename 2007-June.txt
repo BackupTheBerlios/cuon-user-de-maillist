@@ -1,0 +1,31 @@
+From jhamel at cyrus.de  Tue Jun 19 17:53:58 2007
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Tue, 19 Jun 2007 15:53:58 -0000
+Subject: [Cuon-user-de] [CUON] Neue Dokumentation vorhanden
+Message-ID: <20070619155400.6CAE02888B53@serv-1-2-162.lycos-vds.com>
+
+Hallo, 
+Hier ein Hinweis auf die neue Dokumentation im Wiki. Um sich die Dokumentation anzusehen, klickt
+einfach auf den Link:
+http://www.cuon.org 
+oder ?ffnet einen Webbrowser und tragt die Adresse ein. 
+Auf der Startseite klickt bitte den Tab Dokumentation an, dann zu "Dokumentation und Hilfe
+zu CUON im Wiki" anklicken, dort die Sprache w?hlen (z.B. German f?r deutsch), dann  das 
+Benutzerhandbuch w?hlen.
+
+Diesmal wurde besonders der Bereich (11) Beispiele aus der Praxis und dort der Punkt
+"Adressen und Terminpflege bei einen Finanzdienstleiter" ?berarbeitet. Die Anleitung eignet sich nat?rlich 
+f?r alle Firmen, die eine intensive Adressenpflege betreiben.
+
+Ich kann nur jedem empfehlen, die Anleitungen genau zu lesen, C.U.O.N. ist inzwischen recht komplex 
+geworden und ist dabei sehr flexibel nutzbar. 
+
+ 
+Tsch??
+J?rgen
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+

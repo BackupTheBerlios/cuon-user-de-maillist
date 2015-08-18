@@ -1,0 +1,57 @@
+From jhamel at cyrus.de  Sat Mar 17 16:08:55 2007
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Sat, 17 Mar 2007 15:08:55 -0000
+Subject: [Cuon-user-de] C.U.O.N. - Neue Version 0.36-0 Monrovia
+Message-ID: <20070317190530.D5C67700037@serv-2-4-80.lycos-vds.com>
+
+Hallo, 
+die neue Version von C.U.O.N. steht zum download bereit.
+
+Hier die neuen Features der Version 0.36-0 (Monrovia) von CUON:
+Im Kontaktmanagement ist jetzt bei SLEEPS wahlweise Uhrzeit oder Minuten anzugeben
+
+Die Adressverwaltung mausert sich zu einer kleinen Groupwarel?sung, so ist es jetzt z. B. m?glich, 
+den Terminkalender auch ?ber Evolution, Kontact, SUNBIRD sowie anderen Clients anzuschauen, 
+zu drucken, etc. Es wird zur Zeit bei jedem Termin jeweils ein Eintrag im Kalender des CUON-Benutzer
+und desjenigen, f?r den der Termin ist, hinzugef?gt bzw. ge?ndert.
+Dabei werden auch Notizen sowie der Status mit ?bertragen.
+
+Emails k?nnen an Adressen aus CUON heraus gesendet werden, Newsletter an verschiede Gruppen 
+gesendet werden. Ebenfalls kann jetzt ?ber CUON auf einen Hylafax-Server ein FAX verschickt werden.
+Verschiedene Anredefelder werden bei Briefen in OO ber?cksichtigt.
+
+Bei den Einstellungen ist jetzt eine Farbwahl f?r die Eingabefelder m?glich.Au?erdem kann jetzt bei
+Rechnungen, Lieferscheinen und Abholbelegen wahlweise eine Drucker-Option angegeben werden, 
+so das diese Belege sofort  zum Drucker geschickt werden.
+
+Bei entsprechender Einstellung werden im Cuon-Hauptfenster alle Termine angezeigt, man kann ?ber 
+Buttons sofort zu einem Termin springen.
+
+Viele kleine ?nderungen haben das Feeling und Handling verbessert, auch bei gro?en 
+Datenmengen ( 200.000 bis 5000.000 Datens?tzen) werden die Daten  schnell angezeigt. 
+
+Zus?tzliche Felder wie Briefanreden, Hompage, Notizen runden das Bild ab. 
+
+Als n?chstes gro?es Gebiet wird jetzt die Auftragsverwaltung ?berarbeitet, anschlie?end kommt die
+Buchhaltung dran.
+
+Ebenfals steht ein vmplayer-Image zum Download bereit, das einen komplett aufgesetzten C.U.O.N.-Server enth?lt.
+Damit kann jeder einfach C.U.O.N. benutzen. Das VM-Image ist keinesfalls eine Notl?sung, sondern ist im praktischen Einsatz 
+angetestet. Bei kleineren Fa. oder Privatleuten halte ich das f?r eine gute Sache.
+
+Die Clients sind inzwischen auf mehreren Windows-Rechnern im einsatz und funktionieren dort
+ebenfalls. Kleinere Einschr?nkungen ( z.B. kein Scannen m?glich, etc ) sind nicht weiter schlimm. 
+
+Download ist wie ?blich ?ber www.cuon.org oder berlios.de m?glich.
+
+-------------------------------------------------------------------------------------
+Wichtig:
+Diese Mail wurde ?ber die neue Newsletterfunktion verschickt. Es w?re nett, wenn du hier kurz
+drauf antworten w?rdest, dann wei? ich, das es einwandfrei funktioniert.
+-------------------------------------------------------------------------------------
+
+Tsch??
+J?rgen 
+
+
+

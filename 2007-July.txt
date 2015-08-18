@@ -1,0 +1,42 @@
+From jhamel at cyrus.de  Fri Jul  6 10:33:24 2007
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Fri, 06 Jul 2007 08:33:24 -0000
+Subject: [Cuon-user-de] CUON neue Version Khartum
+Message-ID: <20070706083316.F21B82888B5F@serv-1-2-162.lycos-vds.com>
+
+Hallo, 
+Die neue Version von CUON steht zum download bereit. Dies sind die Neuerungen:
+
+Ein neues, gro?es Modul ist die Verwaltung eines Internetauftritts. Dieses Modul befindet sich
+noch in der Anfangsphase, aber auch der neue Webauftritt von CUON ( www.cuon.org) wird 
+bereits damit verwaltet. Neu am Webauftritt ist auch der Bereich Wiki und Bug-Tracking. Hier kann 
+jetzt jeder ein Fehler-Ticket erstellen und nat?rlich auch offene Fehler ?berpr?fen bzw. die 
+Erledigung abchecken. 
+Der neue GTKMiniclient(AI) ist fertig. Ich habe ihn total ?berarbeitet und mit einem Login ausgestattet.
+
+Die AI kann jetzt auch Adressen und Telefonummern nach Vorname und Nachname trennen und suchen.
+
+CUON hat jetzt endlich ein Rechnungsbuch. Es gibt es auch eine automatische Verbuchung des Auftrages.
+
+Eine neue Tabelle, die nur f?r die Kommunikation mit der AI geschaffen wurde, kann jetzt von der AI aus 
+angesteuert werden.
+
+F?r Anfang August ist der Milestone 1 ( Codename Merkur ) anvisiert. 
+geplant ist, das ein kompletter Gesch?ftsvorgang durchgef?hrt werden kann:
+
+    * Adresse erfassen
+    * Artikel erfassen
+    * Neuen Auftrag bilden
+    * Lieferschein und Rechnung schreiben
+    * Zahlungseingang erfassen und buchen
+    * Mahnwesen 
+Dazu geh?ren dann nat?rlich auch Module wie Zahlungsbedingungen und Buchhaltung .
+
+Viel Spa?
+J?rgen
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+

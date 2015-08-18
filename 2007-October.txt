@@ -1,0 +1,47 @@
+From jhamel at cyrus.de  Sun Oct 14 19:34:54 2007
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Sun, 14 Oct 2007 17:34:54 -0000
+Subject: [Cuon-user-de] Neue Cuon-Version 0.41-4 Nanjing
+Message-ID: <20071014173454.793044E014C@h1305982.stratoserver.net>
+
+ Hallo, 
+Die neue Version von CUON wurde in vielen Bereichen stark erweitert.
+An der Optik hat sich viel getan, es gibt jetzt zu den Modulen kleine Icons. Das wichtigste ist allerdings 
+die Erweiterung der GUI zu Alternativen f?r verschiedene Anspr?che ( Danke an Heino f?r die viele Arbeit). 
+Vorhanden ist zur Zeit "alternate1" als gestraffte Version und "maemo" f?r das Nokia N800. Beliebig 
+andere k?nnen folgen, das h?ngt von euch ab.
+Von der Adressverwaltung aus k?nnen jetzt neue Projekte angelegt werden, ebenfalls sieht man bei der 
+Adresse die vorhandenen Auftr?ge, Rechnungen und Projekte und kann jeweils zu den entsprechenden 
+Auftrag, Rechnung oder Projekt direkt hinspringen.
+
+Rechnungen werden ins DMS ?bernommen , Lieferscheine und Abholscheine folgen.
+
+In der Zeit vom 19.08.2007 - 31.08.2007 ist viel programmiert worden. F?r die vielen zus. Arbeiten im DMS 
+( Rechnungen, Statistik) hat das DMS eine Rechtemanagement bekommen ( fertig ca. Ende Oktober). 
+Es lehnt sich stark am LINUX-Modell an.
+Dadurch gibt es jetzt viele M?glichkeiten, angefangen vom manuellen Setzen der Rechte, also beim 
+Abspeichern eines Dokuments festlegen, wer es ansehen bzw. ?ndern darf, bis hin zum automatischen 
+Setzen durch Vorgaben wie z.B. bei der Rechnungslegung
+Aber das geht noch weiter ! Durch das Verarbeiten von Python-Scripts plane ich ein umfassendes 
+Plugin-System, die entsprechend ausgef?hrt werden k?nnen.
+Cuon hat jetzt ein umfangreiches Statistik-Modul, das z?gig ausgebaut wird. Durch die besondere 
+Konstruktion in Verbindung mit dem DMS sind dann sehr spezielle, individuelle Statistiken f?r die 
+Unternehmen machbar.
+Als wichtigstes gibst es jetzt die M?glichkeit, den xmlrpc-Server in mehren Instanzen zu starten und 
+pgpool zur Lastverteilung zu nutzten. Dies hat folgenden Hintergrund: Bei intensiven Arbeiten mit cuon 
+und unterschiedlichen Leitungen ( also z.B. 6 user, 2 im Hausnetz, 2 mit DSL1000 und 2 mit DSL6000 
+m?ssen alle auf den langsamsten ( DSL 1000 ) warten. Dieser Zustand war nicht hinnehmbar. Jetzt kann 
+man den Server auf verschiedenen Ports laufen lassen und so die Leitungen optimal nutzen.
+
+F?r kleine und mittlere Unternehmen gibt es jetzt auch ein fertig installiertes CUON. N?heres unter
+
+http://85.214.52.49/Cyrus/CuonComplete
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+

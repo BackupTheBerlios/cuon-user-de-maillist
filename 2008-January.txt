@@ -1,0 +1,71 @@
+From jhamel at cyrus.de  Sun Jan 27 15:07:43 2008
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Sun, 27 Jan 2008 14:07:43 -0000
+Subject: [Cuon-user-de] Neue Cuon-Version Lhasa 0.43-1
+Message-ID: <20080127140743.A74794E0166@h1305982.stratoserver.net>
+
+Hallo, 
+Endlich gibt es wieder eine neue Version von C.U.O.N. Und wieder hat sich einiges getan:
+Der Statistikbereich ist ernorm erweitert worden, neben normalen Umsatzstatistiken (Tag, woche,
+ Monat, Quartal, jahr, jahrzent, ... ) und deren Vergeich( z.B. letzte 3 Monate) wird dasselbe auch mit 
+Zahlungseing?ngen gemacht.
+Eine Umsatzverteilung sowie die Verteilung der Zahlungseing?nge nach Kontaktern ist ebenfalls implementiert. 
+
+Der Personal-Stammdatenbereich wurde um Urlaubs- und Kranheitstage erweitert.
+  
+Wenn ihr auf Gespr?chspartner geht, k?nnt ihr dort Daten eines Gespr?chspartners eingeben, 
+cuon sucht euch dann die dazugeh?rigen Adressen raus.(Springt automatisch zum ersten TAB )
+
+Neue Felder in der Adressverwaltung( unter Verschiedenes) :
+
+    * Gr?ndungsdatum
+    * Rechtsform
+    * Anz. der Mitarbeiter
+    * Umsatz
+    * T?tigkeitsbereich 
+
+Externes Email-Prg. funktioniert jetzt, Email-Adresse wird ?bertragen (Ticket #3)
+Modularisierung schreitet voran, einbinden der Module jetzt per User m?glich
+Fehler bei der Artikelliste und den Artikeletiketten beseitigt, suche geht jetzt auch 
+nach Warengruppe und regul?ren Ausdr?cken bei Nummer und Beschreibung.
+Neue Suchfunktion bei der Adresse nach Newsletter und info
+Die versendeten Email k?nnen im Log des Clients und im Log des Servers kontrolliert werden.(#2).
+Ein neues Modul ist hinzugekommen, korrespondierend mit einem neuen Format f?r das DMS. 
+Es handelt sich um sogenannte Mindmaps und z.Z. wird vym unterst?tzt. Wenn Ihr mir andere 
+Mindmapping-Programme mitteilt, nehme ich die gerne mit auf.
+
+Einige kleinere Fehler und Verbesserungen wurden ebenfalls erledigt. 
+
+Die Buchhaltung macht auch Fortschritte, Rechnungen und Zahlungen werden verbucht, Ich 
+programmiere jetzt als n?chstes ein Buchungsjournal, um die Werte, die aus Kassenbuch und 
+Auftragsverwaltung kommen, zu ?berpr?fen.
+
+Heino k?mmert sich um die "alternate1" und "maemo" GUI, die auch schon in verschiedenen 
+Bereichen eingesetzt wird. Vielen Dank. Und Robert hat sich sehr um die Installationsscripte f?r 
+Debian verdient gemacht. 
+
+F?r SuSE gibt es demn?chst vorkonfigurierte Pakete unter http://vorkon.de. Ich informiere euch dann 
+noch extra. 
+
+Es kommen jetzt jede Woche neue user f?r CUON hinzu, das Interesse ist stark gestiegen. 
+Auch die komplett vorkonfigurierten Server-Images werden immer h?ufiger verlangt. 
+
+Der Auftragsbereich l?uft auch immer runder, Das Bestellwesen wird wohl ab August in Angriff 
+genommen. Die Linux-Server und Clients laufen schon sehr stabil, unter Windows hat der Client ein 
+paar Probleme. Dank Robert gibts da jetzt aber auch eine einfache Client-Installation, Im 
+download-Bereich findet Ihr den Link. 
+
+Ich w?nsche euch noch ein sch?nes Wochenende, 
+
+J?rgen
+
+
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+

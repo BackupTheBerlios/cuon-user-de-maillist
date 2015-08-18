@@ -1,0 +1,84 @@
+From jhamel at cyrus.de  Tue Jun  2 18:47:56 2009
+From: jhamel at cyrus.de (jhamel at cyrus.de)
+Date: Tue, 02 Jun 2009 16:47:56 -0000
+Subject: [Cuon-user-de] Neue Adressmaske
+Message-ID: <20090602164756.75B2E958800@h1305982.stratoserver.net>
+
+												L?hne, den 02.06.2009
+Hallo,
+nach 8 Jahren Continuit?t nun ein etwas gr??erer Schritt. Als ersten wird seit der Rev. 473 
+eine neue Adressenmaske ausgeliefert. Dieses neue System bietet viele Vorteile, eine bessere 
+?bersicht aber auch flexiblere Programmierung. So ist in der neuen Adressmaske jetzt auch 
+eine neuer "Tab",  in der Google Maps ( sp?ter andere konfigurierte Dienste ) die Adresse anzeigt.
+Das beschleunigt viele Anwendungsbereiche und wird vielleicht in eine automatische Tourenplanung 
+anhand des Terminkalenders enden. 
+
+Leider bedeutet das auch ein wenig Mehrarbeit f?r die Mitarbeiter, die die "aternative" Masken bearbeiten.
+Aber das Ergebis is eine wesentlich bessere Gliederung der Adressmaske.
+
+Ebenfalls bietet Cuon jetz mehr ?bersetzungen, neu hinzugekommen ist niederl?ndisch, franz?sisch, 
+italienisch und lettl?ndisch.
+
+F?r die Administatoren w?rde ich die Empfehlung aussprechen, erst nach Erstellung der neuen alternate Masken 
+vom SVN aus upzudaten. 
+
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+-- 
+Cyrus-Computer GmbH, J?rgen Hamel
+CUON - Warenwirtschaft mit LINUX
+
+
+From jh at cyrus.de  Wed Jun  3 15:11:51 2009
+From: jh at cyrus.de (=?ISO-8859-1?Q?J=FCrgen?= Hamel)
+Date: Wed, 3 Jun 2009 15:11:51 +0200
+Subject: [Cuon-user-de] Neue Adressmaske
+Message-ID: <20090603151151.36aacc15@station2.localdomain>
+
+Hallo,
+nach 8 Jahren Continuit?t nun ein etwas gr??erer Schritt. Als
+ersten wird seit der Rev. 473 eine neue Adressenmaske ausgeliefert.
+Dieses neue System bietet viele Vorteile, eine bessere ?bersicht
+aber auch flexiblere Programmierung. So ist in der neuen
+Adressmaske jetzt auch eine neuer "Tab",  in der Google Maps
+( sp?ter andere konfigurierte Dienste ) die Adresse anzeigt. Das
+beschleunigt viele Anwendungsbereiche und wird vielleicht in eine
+automatische Tourenplanung anhand des Terminkalenders enden. 
+
+Leider bedeutet das auch ein wenig Mehrarbeit f?r die Mitarbeiter,
+die die "aternative" Masken bearbeiten. Aber das Ergebis is eine
+wesentlich bessere Gliederung der Adressmaske.
+
+Ebenfalls bietet Cuon jetz mehr ?bersetzungen, neu hinzugekommen
+ist niederl?ndisch, franz?sisch, italienisch und lettl?ndisch.
+
+F?r die Administatoren w?rde ich die Empfehlung aussprechen, erst
+nach Erstellung der neuen alternate Masken vom SVN aus upzudaten. 
+
+
+mit freundlichen Gr??en
+J?rgen Hamel
+
+
+
+
+
+
+
+
+
+
+
+-- 
+Cyrus-Computer GmbH Linux Server Support J?rgen Hamel
+Cuon - Warenwirtschaft mit Linux  http://www.cuon.org
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 198 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/cuon-user-de/attachments/20090603/73edd540/attachment.pgp>
+
